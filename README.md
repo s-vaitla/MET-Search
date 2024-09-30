@@ -13,8 +13,7 @@ React: For building the user interface and managing component state.
 Axios: For making HTTP requests to the Met Museum API.
 CSS: For styling the components and layout.
 
-## Setup
-Prerequisites
+## Setup Prerequisites
 Node.js (v14 or above)
 npm or yarn
 
@@ -31,4 +30,4 @@ Install dependencies:
 Start the development server:
 `npm start`
 
-### The app should now be running at [http://localhost:3000.#](http://localhost:3000.#) 
+### The app should now be running at http://localhost:3000.#
