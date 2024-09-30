@@ -23,7 +23,7 @@ Clone the repository:
 `git clone https://github.com/s-vaitla/met-search.git`
 
 Navigate to the project directory:
-`cd met-museum-search`
+`cd met-search`
 
 Install dependencies:
 `npm install`
